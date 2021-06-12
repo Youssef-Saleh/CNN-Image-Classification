@@ -1,0 +1,131 @@
+Index,Predicted Labels,True Labels,Is Predicted Label Incorrect?
+1,mitochondria,mitochondria,---
+2,er,er,---
+3,mitochondria,lysosome,Incorrect Prediction
+4,dna,dna,---
+5,golgpp,golgpp,---
+6,dna,dna,---
+7,mitochondria,endosome,Incorrect Prediction
+8,microtubules,actin,Incorrect Prediction
+9,dna,dna,---
+10,lysosome,lysosome,---
+11,actin,actin,---
+12,golgpp,golgpp,---
+13,mitochondria,mitochondria,---
+14,er,er,---
+15,microtubules,microtubules,---
+16,actin,mitochondria,Incorrect Prediction
+17,mitochondria,actin,Incorrect Prediction
+18,nucleolus,nucleolus,---
+19,er,er,---
+20,endosome,mitochondria,Incorrect Prediction
+21,mitochondria,endosome,Incorrect Prediction
+22,actin,microtubules,Incorrect Prediction
+23,actin,actin,---
+24,microtubules,microtubules,---
+25,er,er,---
+26,golgpp,golgpp,---
+27,dna,dna,---
+28,endosome,mitochondria,Incorrect Prediction
+29,golgpp,nucleolus,Incorrect Prediction
+30,microtubules,endosome,Incorrect Prediction
+31,actin,actin,---
+32,endosome,endosome,---
+33,mitochondria,lysosome,Incorrect Prediction
+34,er,er,---
+35,golgpp,golgia,Incorrect Prediction
+36,actin,nucleolus,Incorrect Prediction
+37,er,er,---
+38,er,dna,Incorrect Prediction
+39,er,er,---
+40,er,microtubules,Incorrect Prediction
+41,actin,actin,---
+42,lysosome,lysosome,---
+43,er,er,---
+44,mitochondria,endosome,Incorrect Prediction
+45,nucleolus,nucleolus,---
+46,actin,actin,---
+47,er,er,---
+48,golgia,golgia,---
+49,er,er,---
+50,lysosome,lysosome,---
+51,mitochondria,mitochondria,---
+52,er,er,---
+53,actin,actin,---
+54,actin,actin,---
+55,er,endosome,Incorrect Prediction
+56,actin,mitochondria,Incorrect Prediction
+57,actin,actin,---
+58,microtubules,endosome,Incorrect Prediction
+59,actin,actin,---
+60,actin,microtubules,Incorrect Prediction
+61,golgpp,golgpp,---
+62,lysosome,lysosome,---
+63,lysosome,nucleolus,Incorrect Prediction
+64,mitochondria,mitochondria,---
+65,microtubules,microtubules,---
+66,mitochondria,golgia,Incorrect Prediction
+67,dna,dna,---
+68,actin,actin,---
+69,microtubules,microtubules,---
+70,actin,actin,---
+71,golgpp,golgpp,---
+72,actin,actin,---
+73,nucleolus,nucleolus,---
+74,lysosome,lysosome,---
+75,dna,dna,---
+76,mitochondria,mitochondria,---
+77,lysosome,endosome,Incorrect Prediction
+78,nucleolus,nucleolus,---
+79,nucleolus,nucleolus,---
+80,dna,dna,---
+81,golgia,golgia,---
+82,mitochondria,mitochondria,---
+83,dna,dna,---
+84,lysosome,lysosome,---
+85,dna,er,Incorrect Prediction
+86,golgpp,golgia,Incorrect Prediction
+87,mitochondria,mitochondria,---
+88,actin,actin,---
+89,mitochondria,endosome,Incorrect Prediction
+90,er,er,---
+91,golgpp,golgpp,---
+92,lysosome,lysosome,---
+93,microtubules,microtubules,---
+94,microtubules,endosome,Incorrect Prediction
+95,mitochondria,endosome,Incorrect Prediction
+96,golgia,nucleolus,Incorrect Prediction
+97,endosome,endosome,---
+98,actin,actin,---
+99,microtubules,microtubules,---
+100,mitochondria,mitochondria,---
+101,golgia,golgia,---
+102,mitochondria,mitochondria,---
+103,dna,dna,---
+104,lysosome,lysosome,---
+105,er,er,---
+106,dna,dna,---
+107,er,endosome,Incorrect Prediction
+108,actin,actin,---
+109,lysosome,lysosome,---
+110,mitochondria,mitochondria,---
+111,er,er,---
+112,golgia,golgia,---
+113,actin,actin,---
+114,golgpp,golgpp,---
+115,endosome,endosome,---
+116,golgpp,golgpp,---
+117,golgia,golgia,---
+118,lysosome,lysosome,---
+119,golgpp,golgpp,---
+120,actin,endosome,Incorrect Prediction
+121,golgia,golgia,---
+122,mitochondria,lysosome,Incorrect Prediction
+123,microtubules,microtubules,---
+124,lysosome,lysosome,---
+125,er,er,---
+126,er,er,---
+127,mitochondria,mitochondria,---
+128,lysosome,endosome,Incorrect Prediction
+129,golgia,golgia,---
+130,microtubules,microtubules,---
